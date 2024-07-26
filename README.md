@@ -70,9 +70,3 @@ The dataset used in this project includes the following columns:
 - Database: MySQL
 - MySQL Workbench
 
-
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-Contact
-For any questions or inquiries, please contact Your Name.
