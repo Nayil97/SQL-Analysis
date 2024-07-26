@@ -1,4 +1,4 @@
-# Zara Sales Data Analysis Project
+# Zara Sales Analysis using SQL
 ## Table of Contents
 - Introduction
 - Objectives
